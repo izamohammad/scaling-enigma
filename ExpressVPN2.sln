@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressVPN2", "ExpressVPN2.csproj", "{0E458834-F4EA-4A9A-A002-1BD4AD0D0201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E458834-F4EA-4A9A-A002-1BD4AD0D0201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E458834-F4EA-4A9A-A002-1BD4AD0D0201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E458834-F4EA-4A9A-A002-1BD4AD0D0201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E458834-F4EA-4A9A-A002-1BD4AD0D0201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A97722-B363-42C8-8ED6-76DB30AEFB5A}
+	EndGlobalSection
+EndGlobal
